@@ -1,6 +1,6 @@
 # Image-Processing-Filters-and-Road-Lane-Detection-Using-Hough-Transform
-## Part I: Applying Image Processing Filters For Image
-Cartoonifying
+## Part I: Applying Image Processing Filters For Image Cartoonifying
+
 In this part of the assignment we want to make the real-world images look like they are genuinely
 from a cartoon. The basic idea is to fill the flat parts with some color and then draw thick
 lines on the strong edges. In other words, the flat areas should become much more flat and the
